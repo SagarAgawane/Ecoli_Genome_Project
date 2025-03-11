@@ -1,0 +1,8 @@
+organism: Genus species Escherichia coli B REL606 
+contigs: 107
+bases: 4563017
+CDS: 4261
+gene: 4339
+tmRNA: 1
+tRNA: 72
+rRNA: 5
