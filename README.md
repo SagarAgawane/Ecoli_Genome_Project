@@ -28,7 +28,7 @@ This project focuses on the **assembly, polishing, and annotation** of the *Esch
 - Quality control and **adapter trimming** were performed using **FastQC** and **Trimmomatic**.
 ### **2️⃣ Genome Assembly & Polishing**  
 - The genome was assembled using **SPAdes**.  
-- Read alignment was performed using **BWA**, and the assembly was polished using **Pilon**.
+- Sorting and indexing of BAM file was performed using **SAMtools**, and the assembly was polished using **Pilon**,which internally aligned the reads.
 
 ### **3️⃣ Genome Annotation**  
 - The polished genome was annotated using **Prokka**.  
