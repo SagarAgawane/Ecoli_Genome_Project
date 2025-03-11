@@ -102,7 +102,8 @@ artemis annotation_output_v4/ecoli_v4.gbk
 ```
 ---
 
-👨‍💻 Author & Contact
-Name: Sagar Agawane
-GitHub: Sagar Agavane
-Email: sagar0203agavane@gmail.com
+## 👨‍💻 Author & Contact  
+**Name:** Sagar Agavane  
+**GitHub:** [SagarAgawane](https://github.com/SagarAgawane)  
+**Email:** sagar0203agavane@gmail.com  
+
